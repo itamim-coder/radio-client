@@ -1,0 +1,10 @@
+.nav-btn{
+    padding: 0.5em;
+    text-decoration: none;
+    
+    border: 1px solid wheat;
+    margin: 2px;
+    color: blanchedalmond;
+    font-weight: 700;
+    transition: 0.3s;
+}
